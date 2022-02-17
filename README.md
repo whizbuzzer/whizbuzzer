@@ -1,7 +1,7 @@
 - 👋 Hello there, I am Aniket N Prabhu aka @whizbuzzer
-- 👀 I’m interested in Robotics, Control systems design, Reinforcement Learning, Computer Vision, DNNs and Machine Learning
+- 👀 I’m interested in Robotics, Control systems design, Reinforcement Learning, Computer Vision, DNNs and Machine Learning although I am biased towards CV and DNNs
 - 🌱 I have graduated with an M.S. Robotics and Autonomous Systems degree from Arizona State University, Tempe
-- 💞️ I’m looking to collaborate on C++/Python/ROS/MATLAB/Simulink
+- 💞️ I’m looking to collaborate on C++/Python/ROS/MATLAB/Simulink with more focus on C++ and Python
 - 📫 You can reach me at RoboAniket@gmail.com
 
 <!---
