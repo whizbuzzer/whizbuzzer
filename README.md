@@ -1,4 +1,4 @@
-- 👋 Hello there! I am [Aniket N Prabhu](https://www.linkedin.com/in/aniket-prabhu/) aka [@whizbuzzer](https://whizbuzzer.github.io/). I currently work as a Computer Vision Engineer at [Sensory Robotics Inc.](https://www.sensoryrobotics.com/)
+- 👋 Hello there! I am [Aniket N Prabhu](https://www.linkedin.com/in/aniket-prabhu/) aka [@whizbuzzer](https://whizbuzzer.github.io/). I have worked as a Computer Vision Engineer at [Sensory Robotics Inc.](https://www.sensoryrobotics.com/) and am currently looking for new roles.
 - 👀 I’m interested in Robotics Software Development, Reinforcement Learning, Computer Vision, DNNs and Machine Learning although I am more focused on CV and DNNs
 - 🌱 I have graduated with an M.S. Robotics and Autonomous Systems degree from Arizona State University, Tempe
 - 💞️ I’m looking to collaborate on C++/Python/ROS/MATLAB/Simulink with a greater focus on C++ and Python
